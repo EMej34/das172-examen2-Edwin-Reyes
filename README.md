@@ -1,4 +1,7 @@
 # Examen 2 - Balance de Carga en Aeronaves  
+Nombre: Reyes Mejia, Edwin Mauricio 
+Curso: DAS172
+Examen: 2
 **Repositorio:** das172-examen2-Edwin-Reyes  
 
 ## Introducción
@@ -85,9 +88,7 @@ Se implementaron pruebas unitarias para verificar el correcto funcionamiento de 
 - **Balance equilibrado:** diferencia dentro de tolerancia.  
 - **Balance desequilibrado:** diferencia fuera de tolerancia.  
 - **Submatriz crítica:** selección de la región con mayor promedio.  
-Nombre: Reyes Mejia, Edwin Mauricio 
-Curso: DAS172
-Examen: 2
+
 
 
 
